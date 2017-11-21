@@ -1,0 +1,14 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "Date",
+          "type": "AMAZON.DATE"
+        }
+      ],
+      "intent": "SparkyIntent"
+    }
+  ]
+}
+
