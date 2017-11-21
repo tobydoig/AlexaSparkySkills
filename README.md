@@ -1,6 +1,11 @@
 # Sparky - Alexa Skill
 My little boy often asks "is today a school day". Now he can ask Alexa.
 
+# Usage
+Alexa, ask Sparky is it a school day
+Alexa, ask Sparky is it a school day tomorrow
+Alexa, ask Sparky is Friday a school day
+
 # Installation
 Note that I didn't publish this on the skills marketplace. I only have this on my device via my amazon developer account.
 
