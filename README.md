@@ -2,9 +2,11 @@
 My little boy often asks "is today a school day". Now he can ask Alexa.
 
 # Usage
-Alexa, ask Sparky is it a school day
-Alexa, ask Sparky is it a school day tomorrow
-Alexa, ask Sparky is Friday a school day
+Since this is a custom skill you need to mention the intent (skill name) so it sounds a little clumsy. By calling the skill "Sparky" it sounds a little more natural.
+
+- Alexa, ask Sparky is it a school day
+- Alexa, ask Sparky is it a school day tomorrow
+- Alexa, ask Sparky is Friday a school day
 
 # Installation
 Note that I didn't publish this on the skills marketplace. I only have this on my device via my amazon developer account.
